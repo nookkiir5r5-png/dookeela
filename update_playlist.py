@@ -2,43 +2,24 @@ import requests
 import re
 import json
 
-# รายชื่อช่องทั้งหมดที่มีในระบบ Dookeela
+# รายชื่อช่องหลักที่ใช้งานได้จริง
 ALL_CHANNELS = {
-    "กีฬา [ฟุตบอลและสากล]": {
-        "beIN Sports 1": "bein1",
-        "beIN Sports 2": "bein2",
-        "beIN Sports 3": "bein3",
-        "True Sport 1": "tsp1",
-        "True Sport 2": "tsp2",
-        "True Sport 5": "tsp5",
-        "True Sport 7": "tsp7",
-        "Premier Football 1": "tpf1",
-        "Premier Football 2": "tpf2",
-        "MUTV": "mutv",
-        "Golf Channel": "golf-channel"
-    },
-    "กีฬา [มอเตอร์สปอร์ต]": {
-        "SPOTV 1": "spotv",
-        "SPOTV 2": "spotv2",
-        "F1 / Motorsport": "motorsport",
-        "MotoGP": "motogp"
-    },
     "ฟรีทีวีและข่าว": {
         "ช่อง 3 HD": "ch3",
         "ช่อง 5 HD": "ch5",
         "ช่อง 7 HD": "ch7",
         "ไทยรัฐ TV": "thairath-tv",
         "อมรินทร์ TV": "amarin-tv",
-        "MONO 29": "mono29",
-        "PPTV": "pptv",
-        "TNN16": "tnn16"
+        "MONO 29": "mono29"
     },
-    "บันเทิงและภาพยนตร์": {
-        "tvN Asia": "tvn-asia",
-        "Warner TV": "warner-tv",
-        "AXN": "axn",
-        "HBO Asia": "hbo-asia",
-        "Cinemax": "cinemax"
+    "กีฬา [สากลและฟุตบอล]": {
+        "beIN Sports 1": "bein1",
+        "beIN Sports 2": "bein2",
+        "beIN Sports 3": "bein3",
+        "True Sport 2": "tsp2",
+        "True Sport 7": "tsp7",
+        "Premier Football 1": "tpf1",
+        "Premier Football 2": "tpf2"
     },
     "การ์ตูนและเด็ก": {
         "Cartoon Network": "cartoon-network",
@@ -65,7 +46,7 @@ def get_stream_url(ch_id):
     return None
 
 playlist = {
-    "name": "Dookeela Ultimate Playlist",
+    "name": "Dookeela Clean Playlist",
     "author": "AI Assistant",
     "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
     "groups": []
