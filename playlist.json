@@ -1,5 +1,5 @@
 {
-  "name": "Dookeela Ultimate Playlist",
+  "name": "Dookeela Mega Playlist",
   "author": "AI Assistant",
   "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
   "groups": [
@@ -164,6 +164,13 @@
           "playInNatPlayer": true
         },
         {
+          "name": "Crime + Investigation",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
           "name": "HBO Asia",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-asia/chunks.m3u8",
           "referer": "https://dookeela4.live/",
@@ -173,6 +180,48 @@
         {
           "name": "Cinemax",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "Rock Entertainment",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/rock-ent/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "Rock Action",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/rock-action/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "True Asian More",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/true-asian-more/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "Warner TV",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/warner-tv/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "AXN",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/axn/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "Lifetime",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/lifetime/chunks.m3u8",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
           "playInNatPlayer": true
