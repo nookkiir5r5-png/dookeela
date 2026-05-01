@@ -20,7 +20,7 @@ https://thairath-web.cdn.byteark.com/live/playlist.m3u8|Referer=https://www.thai
 #EXTINF:-1 tvg-id="อมรินทร์ TV" tvg-name="อมรินทร์ TV" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=amarintv.com&sz=256" group-title="ฟรีทีวีและข่าว",อมรินทร์ TV
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
-https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8|Referer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="MONO 29" tvg-name="MONO 29" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=mono29.com&sz=256" group-title="ฟรีทีวีและข่าว",MONO 29
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
@@ -149,6 +149,46 @@ https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8|Referer=https://dooke
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=bbcearth.com&sz=256" group-title="สารคดีและอื่นๆ",BBC Earth
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/bbc-earth/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime + Investigation" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=crimeandinvestigation.co.uk&sz=256" group-title="สารคดีและอื่นๆ",Crime + Investigation
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=dmax.de&sz=256" group-title="สารคดีและอื่นๆ",DMAX
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/dmax/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256" group-title="สารคดีและอื่นๆ",Discovery Asia
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Foodiez Channel" tvg-name="Foodiez Channel" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=foodiez.com&sz=256" group-title="สารคดีและอื่นๆ",Foodiez Channel
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/foodiez-channel/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=lovenature.com&sz=256" group-title="สารคดีและอื่นๆ",Love Nature 4K
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/lovenature4k/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=nationalgeographic.com&sz=256" group-title="สารคดีและอื่นๆ",National Geographic
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="RT Documentary" tvg-name="RT Documentary" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=rtdoc.tv&sz=256" group-title="สารคดีและอื่นๆ",RT Documentary
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/rt-documentary/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="True Explore Sci" tvg-name="True Explore Sci" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="สารคดีและอื่นๆ",True Explore Sci
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/trueexploresci/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="True Explore Wild" tvg-name="True Explore Wild" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="สารคดีและอื่นๆ",True Explore Wild
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/trueexplorewild/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=cartoonnetworkasia.com&sz=256" group-title="การ์ตูนและเด็ก",Cartoon Network
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
