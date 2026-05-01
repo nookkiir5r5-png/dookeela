@@ -1,425 +1,202 @@
 {
-  "name": "Dookeela Mega Playlist 36 (Updated Links)",
-  "author": "AI Assistant",
-  "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
+  "name": "Mega Playlist 36 (With Cartoons)",
   "groups": [
     {
-      "name": "dookeela [ฟรีทีวีและข่าว]",
+      "name": "ฟรีทีวีและข่าว",
       "stations": [
         {
           "name": "ช่อง 3",
           "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=ch3plus.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=ch3plus.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "ch3plus.com",
+          "referer": "https://ch3plus.com/"
         },
         {
           "name": "ช่อง 5",
           "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=tv5hd1.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=tv5hd1.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "tv5hd1.com",
+          "referer": ""
         },
         {
           "name": "ช่อง 7",
           "url": "http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=ch7.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=ch7.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "ch7.com",
+          "referer": "https://www.ch7.com/"
         },
         {
           "name": "MCOT HD",
           "url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=mcot.net&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=mcot.net&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "mcot.net",
+          "referer": "https://mcot.net/"
         },
         {
           "name": "ไทยรัฐ TV",
-          "url": "https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=thairath.co.th&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=thairath.co.th&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "url": "https://thairath-web.cdn.byteark.com/live/playlist.m3u8",
+          "domain": "thairath.co.th",
+          "referer": "https://www.thairath.co.th/"
         },
         {
           "name": "อมรินทร์ TV",
-          "url": "https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=amarintv.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=amarintv.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8",
+          "domain": "amarintv.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "MONO 29",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/mono29/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=mono29.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=mono29.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "mono29.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "WORKPOINT",
-          "url": "https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=workpointtv.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=workpointtv.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "url": "https://workpoint-web.cdn.byteark.com/live/playlist.m3u8",
+          "domain": "workpointtv.com",
+          "referer": "https://www.workpointtv.com/"
         },
         {
           "name": "PPTV",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=pptvhd36.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=pptvhd36.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "pptvhd36.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "TNN16",
-          "url": "https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=tnnthailand.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=tnnthailand.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "url": "https://tnn16-web.cdn.byteark.com/live/playlist.m3u8",
+          "domain": "tnnthailand.com",
+          "referer": "https://www.tnnthailand.com/"
         },
         {
           "name": "Nation TV",
-          "url": "https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nationtv.tv&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=nationtv.tv&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8",
+          "domain": "nationtv.tv",
+          "referer": "https://www.nationtv.tv/"
         }
       ]
     },
     {
-      "name": "dookeela [กีฬาและฟุตบอล]",
+      "name": "ภาพยนตร์และบันเทิง",
       "stations": [
+        {
+          "name": "True Film 1",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm1/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Film 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        }
+      ]
+    },
+    {
+      "name": "กีฬาและฟุตบอล",
+      "stations": [
+        {
+          "name": "True Sport 1",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
         {
           "name": "beIN Sports 1",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "beinsports.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "beIN Sports 2",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "beinsports.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "beIN Sports 3",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "beIN Sports 4",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "beIN Sports 5",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "True Sport 1",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "True Sport 2",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "True Sport 7",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Premier Football 1",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf1/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=trueid.net&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=trueid.net&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Premier Football 2",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf2/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=trueid.net&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=trueid.net&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "SPOTV 1",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "SPOTV 2",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "MUTV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/mutv/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=manutd.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=manutd.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Golf Channel",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/golf-channel/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=golfchannel.co.th&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=golfchannel.co.th&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "beinsports.com",
+          "referer": "https://dookeela4.live/"
         }
       ]
     },
     {
-      "name": "dookeela [ภาพยนตร์และสารคดี]",
+      "name": "สารคดีและอื่นๆ",
       "stations": [
+        {
+          "name": "Mysci",
+          "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=2899307&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDEvMjAyNiAwMTozNDoyNyBQTSZoYXNoX3ZhbHVlPSs4OXJ1bXFscEYxRUxBRWYvVWFrU3c9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+          "domain": "footstv.com",
+          "referer": "https://dookeela4.live/"
+        },
         {
           "name": "Animal Show",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=animalplanet.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=animalplanet.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "animalplanet.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "สำรวจโลก",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nextstep.tv&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=nextstep.tv&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "nextstep.tv",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "History Channel",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=history.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=history.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "history.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "Discovery Channel",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Discovery Asia",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "discovery.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "National Geographic",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nationalgeographic.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=nationalgeographic.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Crime + Investigation",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=crimeandinvestigation.co.uk&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=crimeandinvestigation.co.uk&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "nationalgeographic.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "HBO",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "HBO Family",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "HBO Hits",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "HBO Signature",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Cinemax",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=cinemax.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=cinemax.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Fashion TV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/fashion-tv/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=fashiontv.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=fashiontv.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Rock Entertainment",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/rock-ent/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=rockentertainment.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=rockentertainment.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Rock Action",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/rock-action/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=rockentertainment.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=rockentertainment.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "True Asian More",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/true-asian-more/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Warner TV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/warner-tv/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=warnertvasia.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=warnertvasia.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "AXN",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/axn/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=axn-asia.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=axn-asia.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "tvN Asia",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/tvn-asia/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=tvnasia.net&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=tvnasia.net&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
-        },
-        {
-          "name": "Lifetime",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/lifetime/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=mylifetime.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=mylifetime.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "hbo.com",
+          "referer": "https://dookeela4.live/"
         }
       ]
     },
     {
-      "name": "dookeela [การ์ตูนและเด็ก]",
+      "name": "การ์ตูนและเด็ก",
       "stations": [
         {
           "name": "Cartoon Network",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/cartoon-network/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=cartoonnetworkasia.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=cartoonnetworkasia.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "cartoonnetworkasia.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "Nickelodeon",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nickelodeon/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nick.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=nick.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "nick.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "Nick Jr",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nickjr/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nickjr.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=nickjr.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "nick.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "DreamWorks",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/dreamworks/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=dreamworks.com&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=dreamworks.com&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "dreamworks.com",
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "Boomerang",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/boomerang/chunks.m3u8",
-          "logo": "https://s2.googleusercontent.com/s2/favicons?domain=boomerangtv.co.th&sz=256",
-          "image": "https://s2.googleusercontent.com/s2/favicons?domain=boomerangtv.co.th&sz=256",
-          "userAgent": "Mozilla/5.0",
-          "playInNatPlayer": true
+          "domain": "boomerangtv.co.th",
+          "referer": "https://dookeela4.live/"
         }
       ]
     }
