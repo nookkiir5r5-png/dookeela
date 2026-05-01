@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Updated Monomax 2)",
+    "name": "Mega Playlist 36 (All HBO Channels Restored)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -27,7 +27,14 @@ playlist_data = {
             "stations": [
                 {"name": "True Film 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm1/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Film 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
-                {"name": "CCM", "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"}
+                {"name": "CCM", "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                
+                # นำตระกูล HBO ทั้งหมดกลับมาไว้ที่หมวดนี้
+                {"name": "HBO", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
+                {"name": "HBO Family", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
+                {"name": "HBO Hits", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
+                {"name": "HBO Signature", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
+                {"name": "Cinemax", "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8", "domain": "cinemax.com", "referer": "https://dookeela4.live/"}
             ]
         },
         {
@@ -38,7 +45,6 @@ playlist_data = {
                 {"name": "beIN Sports 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "beIN Sports 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
-                # อัปเดตลิงก์ใหม่ของ Monomax 2
                 {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
             ]
         },
@@ -50,8 +56,7 @@ playlist_data = {
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv", "referer": "https://dookeela4.live/"},
                 {"name": "History Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"},
                 {"name": "Discovery Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8", "domain": "discovery.com", "referer": "https://dookeela4.live/"},
-                {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"},
-                {"name": "HBO", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"}
+                {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"}
             ]
         },
         {
@@ -72,6 +77,7 @@ for group in playlist_data["groups"]:
     for st in group["stations"]:
         logo = get_logo(st["domain"])
         ref = st.get("referer", "")
+        
         m3u_lines.append(f'#EXTINF:-1 tvg-id="{st["name"]}" tvg-name="{st["name"]}" tvg-logo="{logo}" group-title="{group["name"]}",{st["name"]}')
         if ref:
             m3u_lines.append(f'#EXTVLCOPT:http-referrer={ref}')
@@ -86,4 +92,4 @@ with open('playlist.m3u', 'w', encoding='utf-8') as f:
 with open('playlist.json', 'w', encoding='utf-8') as f:
     json.dump(playlist_data, f, ensure_ascii=False, indent=2)
 
-print("อัปเดตไฟล์สำเร็จ")
+print("สร้างไฟล์ playlist สำเร็จและนำช่องทั้งหมดกลับมาครบถ้วนครับ")
