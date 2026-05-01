@@ -1,38 +1,38 @@
 {
-  "name": "Mega Playlist 36 (Updated National Geographic)",
+  "name": "Mega Playlist 36 (Updated & Restored)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
       "stations": [
         {
           "name": "ช่อง 3",
-          "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/ch3hd/chunks.m3u8",
           "domain": "ch3plus.com",
-          "referer": "https://ch3plus.com/"
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "ช่อง 5",
-          "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/ch5hd/chunks.m3u8",
           "domain": "tv5hd1.com",
-          "referer": ""
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "ช่อง 7",
-          "url": "http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/ch7hd/chunks.m3u8",
           "domain": "ch7.com",
-          "referer": "https://www.ch7.com/"
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "MCOT HD",
-          "url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/mcothd/chunks.m3u8",
           "domain": "mcot.net",
-          "referer": "https://mcot.net/"
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "ไทยรัฐ TV",
-          "url": "https://thairath-web.cdn.byteark.com/live/playlist.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/thairathtv/chunks.m3u8",
           "domain": "thairath.co.th",
-          "referer": "https://www.thairath.co.th/"
+          "referer": "https://dookeela4.live/"
         },
         {
           "name": "อมรินทร์ TV",
@@ -69,6 +69,12 @@
           "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8",
           "domain": "nationtv.tv",
           "referer": "https://www.nationtv.tv/"
+        },
+        {
+          "name": "One 31",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/one31/chunks.m3u8",
+          "domain": "one31.net",
+          "referer": "https://dookeela4.live/"
         }
       ]
     },
@@ -199,6 +205,18 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8",
           "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "SPOTV 1",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8",
+          "domain": "spotv.net",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "SPOTV 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8",
+          "domain": "spotv.net",
+          "referer": "https://dookeela4.live/"
         }
       ]
     },
@@ -281,12 +299,6 @@
           "name": "Love Nature 4K",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/lovenature4k/chunks.m3u8",
           "domain": "lovenature.com",
-          "referer": "https://dookeela4.live/"
-        },
-        {
-          "name": "National Geographic",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8",
-          "domain": "nationalgeographic.com",
           "referer": "https://dookeela4.live/"
         },
         {
