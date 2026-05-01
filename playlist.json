@@ -103,8 +103,43 @@
           "playInNatPlayer": true
         },
         {
+          "name": "beIN Sports 3",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "beIN Sports 4",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "beIN Sports 5",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "True Sport 1",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
           "name": "True Sport 2",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "True Sport 7",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
           "playInNatPlayer": true
@@ -117,8 +152,36 @@
           "playInNatPlayer": true
         },
         {
+          "name": "Premier Football 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf2/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
           "name": "SPOTV 1",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "SPOTV 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "MUTV",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/mutv/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "Golf Channel",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/golf-channel/chunks.m3u8",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
           "playInNatPlayer": true
@@ -157,6 +220,13 @@
           "playInNatPlayer": true
         },
         {
+          "name": "Discovery Asia",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
           "name": "National Geographic",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8",
           "referer": "https://dookeela4.live/",
@@ -178,8 +248,36 @@
           "playInNatPlayer": true
         },
         {
+          "name": "HBO Family",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HBO Hits",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "HBO Signature",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
           "name": "Cinemax",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "Fashion TV",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/fashion-tv/chunks.m3u8",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
           "playInNatPlayer": true
@@ -215,6 +313,13 @@
         {
           "name": "AXN",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/axn/chunks.m3u8",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "playInNatPlayer": true
+        },
+        {
+          "name": "tvN Asia",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tvn-asia/chunks.m3u8",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
           "playInNatPlayer": true
