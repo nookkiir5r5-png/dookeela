@@ -135,6 +135,10 @@ https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8|Referer=https://dookeela4
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Monomax Sports 104" tvg-name="Monomax Sports 104" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Monomax Sports 104
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="Mysci" tvg-name="Mysci" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=footstv.com&sz=256" group-title="สารคดีและอื่นๆ",Mysci
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
