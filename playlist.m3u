@@ -148,7 +148,7 @@ https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8|Referer=https://dooke
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=nationalgeographic.com&sz=256" group-title="สารคดีและอื่นๆ",National Geographic
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
-https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8|Referer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=bbcearth.com&sz=256" group-title="สารคดีและอื่นๆ",BBC Earth
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}

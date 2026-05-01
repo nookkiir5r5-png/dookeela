@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Updated with Documentaries)",
+  "name": "Mega Playlist 36 (Updated National Geographic)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -243,7 +243,7 @@
         },
         {
           "name": "National Geographic",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8",
           "domain": "nationalgeographic.com",
           "referer": "https://dookeela4.live/"
         },
