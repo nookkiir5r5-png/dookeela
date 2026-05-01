@@ -4,22 +4,23 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Updated National Geographic)",
+    "name": "Mega Playlist 36 (Updated & Restored)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
             "stations": [
-                {"name": "ช่อง 3", "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8", "domain": "ch3plus.com", "referer": "https://ch3plus.com/"},
-                {"name": "ช่อง 5", "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8", "domain": "tv5hd1.com", "referer": ""},
-                {"name": "ช่อง 7", "url": "http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8", "domain": "ch7.com", "referer": "https://www.ch7.com/"},
-                {"name": "MCOT HD", "url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8", "domain": "mcot.net", "referer": "https://mcot.net/"},
-                {"name": "ไทยรัฐ TV", "url": "https://thairath-web.cdn.byteark.com/live/playlist.m3u8", "domain": "thairath.co.th", "referer": "https://www.thairath.co.th/"},
+                {"name": "ช่อง 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/ch3hd/chunks.m3u8", "domain": "ch3plus.com", "referer": "https://dookeela4.live/"},
+                {"name": "ช่อง 5", "url": "https://dij0k9i5q0gvn.cloudfront.net/ch5hd/chunks.m3u8", "domain": "tv5hd1.com", "referer": "https://dookeela4.live/"},
+                {"name": "ช่อง 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/ch7hd/chunks.m3u8", "domain": "ch7.com", "referer": "https://dookeela4.live/"},
+                {"name": "MCOT HD", "url": "https://dij0k9i5q0gvn.cloudfront.net/mcothd/chunks.m3u8", "domain": "mcot.net", "referer": "https://dookeela4.live/"},
+                {"name": "ไทยรัฐ TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/thairathtv/chunks.m3u8", "domain": "thairath.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "อมรินทร์ TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8", "domain": "amarintv.com", "referer": "https://dookeela4.live/"},
                 {"name": "MONO 29", "url": "https://dij0k9i5q0gvn.cloudfront.net/mono29/chunks.m3u8", "domain": "mono29.com", "referer": "https://dookeela4.live/"},
                 {"name": "WORKPOINT", "url": "https://workpoint-web.cdn.byteark.com/live/playlist.m3u8", "domain": "workpointtv.com", "referer": "https://www.workpointtv.com/"},
                 {"name": "PPTV", "url": "https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8", "domain": "pptvhd36.com", "referer": "https://dookeela4.live/"},
                 {"name": "TNN16", "url": "https://tnn16-web.cdn.byteark.com/live/playlist.m3u8", "domain": "tnnthailand.com", "referer": "https://www.tnnthailand.com/"},
-                {"name": "Nation TV", "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8", "domain": "nationtv.tv", "referer": "https://www.nationtv.tv/"}
+                {"name": "Nation TV", "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8", "domain": "nationtv.tv", "referer": "https://www.nationtv.tv/"},
+                {"name": "One 31", "url": "https://dij0k9i5q0gvn.cloudfront.net/one31/chunks.m3u8", "domain": "one31.net", "referer": "https://dookeela4.live/"}
             ]
         },
         {
@@ -49,7 +50,11 @@ playlist_data = {
                 {"name": "beIN Sports 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "beIN Sports 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
-                {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
+                {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                
+                # เพิ่ม SPOTV ทั้ง 2 ช่อง
+                {"name": "SPOTV 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8", "domain": "spotv.net", "referer": "https://dookeela4.live/"},
+                {"name": "SPOTV 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8", "domain": "spotv.net", "referer": "https://dookeela4.live/"}
             ]
         },
         {
@@ -61,7 +66,6 @@ playlist_data = {
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv", "referer": "https://dookeela4.live/"},
                 {"name": "History Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"},
                 {"name": "Discovery Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8", "domain": "discovery.com", "referer": "https://dookeela4.live/"},
-                # อัปเดตลิงก์ใหม่ของ National Geographic
                 {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"},
                 {"name": "BBC Earth", "url": "https://dij0k9i5q0gvn.cloudfront.net/bbc-earth/chunks.m3u8", "domain": "bbcearth.com", "referer": "https://dookeela4.live/"},
                 {"name": "Crime + Investigation", "url": "https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8", "domain": "crimeandinvestigation.co.uk", "referer": "https://dookeela4.live/"},
@@ -69,7 +73,6 @@ playlist_data = {
                 {"name": "Discovery Asia", "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8", "domain": "discovery.com", "referer": "https://dookeela4.live/"},
                 {"name": "Foodiez Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/foodiez-channel/chunks.m3u8", "domain": "foodiez.com", "referer": "https://dookeela4.live/"},
                 {"name": "Love Nature 4K", "url": "https://dij0k9i5q0gvn.cloudfront.net/lovenature4k/chunks.m3u8", "domain": "lovenature.com", "referer": "https://dookeela4.live/"},
-                {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"},
                 {"name": "RT Documentary", "url": "https://dij0k9i5q0gvn.cloudfront.net/rt-documentary/chunks.m3u8", "domain": "rtdoc.tv", "referer": "https://dookeela4.live/"},
                 {"name": "True Explore Sci", "url": "https://dij0k9i5q0gvn.cloudfront.net/trueexploresci/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Explore Wild", "url": "https://dij0k9i5q0gvn.cloudfront.net/trueexplorewild/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"}
@@ -107,4 +110,4 @@ with open('playlist.m3u', 'w', encoding='utf-8') as f:
 with open('playlist.json', 'w', encoding='utf-8') as f:
     json.dump(playlist_data, f, ensure_ascii=False, indent=2)
 
-print("อัปเดตไฟล์ playlist สำเร็จ")
+print("สร้างไฟล์ playlist สำเร็จ")
