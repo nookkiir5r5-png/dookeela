@@ -243,8 +243,8 @@ playlist = {
                     "playInNatPlayer": True
                 },
                 {
-                    "name": "HBO Asia",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-asia/chunks.m3u8",
+                    "name": "HBO",
+                    "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
