@@ -1,7 +1,7 @@
 import json
 
 playlist = {
-    "name": "Dookeela Mega Playlist",
+    "name": "Dookeela Mega Playlist with Logos",
     "author": "AI Assistant",
     "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
     "groups": [
@@ -11,6 +11,7 @@ playlist = {
                 {
                     "name": "ช่อง 3",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/ch3/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Channel_3_Thailand_logo.svg/120px-Channel_3_Thailand_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -18,6 +19,7 @@ playlist = {
                 {
                     "name": "ช่อง 5",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/ch5/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TV5HD1_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -25,6 +27,7 @@ playlist = {
                 {
                     "name": "ช่อง 7",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/ch7/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ch7HD_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -32,6 +35,7 @@ playlist = {
                 {
                     "name": "MCOT HD",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/ch9/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/MCOT_HD_Logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -39,6 +43,7 @@ playlist = {
                 {
                     "name": "ไทยรัฐ TV",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/thairath-tv/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Thairath_TV_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -46,6 +51,7 @@ playlist = {
                 {
                     "name": "อมรินทร์ TV",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Amarin_TV_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -53,6 +59,7 @@ playlist = {
                 {
                     "name": "MONO 29",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/mono29/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mono29_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -60,6 +67,7 @@ playlist = {
                 {
                     "name": "WORKPOINT",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/workpoint/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Workpoint_TV_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -67,6 +75,7 @@ playlist = {
                 {
                     "name": "PPTV",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/PPTV_HD_36_Logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -74,6 +83,7 @@ playlist = {
                 {
                     "name": "TNN16",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/tnn16/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/TNN16_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -81,6 +91,7 @@ playlist = {
                 {
                     "name": "Nation TV",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/nation-tv/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/Nation_TV_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -93,6 +104,7 @@ playlist = {
                 {
                     "name": "beIN Sports 1",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/BeIN_Sports_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -100,6 +112,7 @@ playlist = {
                 {
                     "name": "beIN Sports 2",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/BeIN_Sports_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -107,6 +120,7 @@ playlist = {
                 {
                     "name": "beIN Sports 3",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/BeIN_Sports_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -114,6 +128,7 @@ playlist = {
                 {
                     "name": "beIN Sports 4",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/BeIN_Sports_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -121,6 +136,7 @@ playlist = {
                 {
                     "name": "beIN Sports 5",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/BeIN_Sports_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -128,6 +144,7 @@ playlist = {
                 {
                     "name": "True Sport 1",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -135,6 +152,7 @@ playlist = {
                 {
                     "name": "True Sport 2",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -142,6 +160,7 @@ playlist = {
                 {
                     "name": "True Sport 7",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -149,6 +168,7 @@ playlist = {
                 {
                     "name": "Premier Football 1",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf1/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -156,6 +176,7 @@ playlist = {
                 {
                     "name": "Premier Football 2",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf2/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -163,6 +184,7 @@ playlist = {
                 {
                     "name": "SPOTV 1",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/SPOTV_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -170,6 +192,7 @@ playlist = {
                 {
                     "name": "SPOTV 2",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/SPOTV_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -177,6 +200,7 @@ playlist = {
                 {
                     "name": "MUTV",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/mutv/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/3/33/MUTV_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -184,6 +208,7 @@ playlist = {
                 {
                     "name": "Golf Channel",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/golf-channel/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -196,6 +221,7 @@ playlist = {
                 {
                     "name": "Animal Show",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Animal_Planet_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -203,6 +229,7 @@ playlist = {
                 {
                     "name": "สำรวจโลก",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Thairath_TV_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -210,6 +237,7 @@ playlist = {
                 {
                     "name": "History Channel",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_History_Channel_%282008%29.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -217,6 +245,7 @@ playlist = {
                 {
                     "name": "Discovery Channel",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Discovery_Channel_2009_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -224,6 +253,7 @@ playlist = {
                 {
                     "name": "Discovery Asia",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Discovery_Channel_2009_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -231,6 +261,7 @@ playlist = {
                 {
                     "name": "National Geographic",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/National_Geographic_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -238,6 +269,7 @@ playlist = {
                 {
                     "name": "Crime + Investigation",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -245,6 +277,7 @@ playlist = {
                 {
                     "name": "HBO",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -252,6 +285,7 @@ playlist = {
                 {
                     "name": "HBO Family",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -259,6 +293,7 @@ playlist = {
                 {
                     "name": "HBO Hits",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -266,6 +301,7 @@ playlist = {
                 {
                     "name": "HBO Signature",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -273,6 +309,7 @@ playlist = {
                 {
                     "name": "Cinemax",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -280,6 +317,7 @@ playlist = {
                 {
                     "name": "Fashion TV",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/fashion-tv/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/FashionTV_new_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -287,6 +325,7 @@ playlist = {
                 {
                     "name": "Rock Entertainment",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/rock-ent/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -294,6 +333,7 @@ playlist = {
                 {
                     "name": "Rock Action",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/rock-action/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -301,6 +341,7 @@ playlist = {
                 {
                     "name": "True Asian More",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/true-asian-more/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -308,6 +349,7 @@ playlist = {
                 {
                     "name": "Warner TV",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/warner-tv/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Warner_TV_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -315,6 +357,7 @@ playlist = {
                 {
                     "name": "AXN",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/axn/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/AXN_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -322,6 +365,7 @@ playlist = {
                 {
                     "name": "tvN Asia",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/tvn-asia/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/TvN_Asia_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -329,6 +373,7 @@ playlist = {
                 {
                     "name": "Lifetime",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/lifetime/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Lifetime_logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -341,6 +386,7 @@ playlist = {
                 {
                     "name": "Cartoon Network",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/cartoon-network/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cartoon_Network_logo_2010.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -348,6 +394,7 @@ playlist = {
                 {
                     "name": "Nickelodeon",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/nickelodeon/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nickelodeon_2023_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -355,6 +402,7 @@ playlist = {
                 {
                     "name": "Nick Jr",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/nickjr/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Nick_Jr._2009_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -362,6 +410,7 @@ playlist = {
                 {
                     "name": "DreamWorks",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/dreamworks/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/DreamWorks_Animation_logo.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -369,6 +418,7 @@ playlist = {
                 {
                     "name": "Boomerang",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/boomerang/chunks.m3u8",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Boomerang_logo_%282012%29.svg",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
