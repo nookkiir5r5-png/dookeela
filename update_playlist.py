@@ -1,32 +1,29 @@
 import json
 
-# ฟังก์ชันดึงรูปโลโก้จากระบบ Google (ติดชัวร์ 100%)
 def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
-# ฝังข้อมูลทั้งหมดลงในตัวแปรเดียว เพื่อป้องกันการดึงข้อมูลล้มเหลวจากเว็บอื่น
 playlist_data = {
-    "name": "Dookeela Mega Playlist 36",
+    "name": "Mega Playlist 36",
     "groups": [
         {
-            "name": "dookeela [ฟรีทีวีและข่าว]",
+            "name": "ฟรีทีวีและข่าว",
             "stations": [
-                # อัปเดตลิงก์สำรองสำหรับฟรีทีวี
-                {"name": "ช่อง 3", "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8", "domain": "ch3plus.com"},
+                {"name": "ช่อง 3", "url": "https://ch3-web.cdn.byteark.com/live/playlist.m3u8", "domain": "ch3plus.com"},
                 {"name": "ช่อง 5", "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8", "domain": "tv5hd1.com"},
-                {"name": "ช่อง 7", "url": "http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8", "domain": "ch7.com"},
-                {"name": "MCOT HD", "url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8", "domain": "mcot.net"},
-                {"name": "ไทยรัฐ TV", "url": "https://d3eq0zicvvy6c6.cloudfront.net/out/v1/de0f85ce3df74d5c9dd025d08cc784fa/index.m3u8", "domain": "thairath.co.th"},
-                {"name": "อมรินทร์ TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8", "domain": "amarintv.com"},
-                {"name": "MONO 29", "url": "https://dij0k9i5q0gvn.cloudfront.net/mono29/chunks.m3u8", "domain": "mono29.com"},
-                {"name": "WORKPOINT", "url": "https://dij0k9i5q0gvn.cloudfront.net/workpoint/chunks.m3u8", "domain": "workpointtv.com"},
-                {"name": "PPTV", "url": "https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8", "domain": "pptvhd36.com"},
-                {"name": "TNN16", "url": "https://dij0k9i5q0gvn.cloudfront.net/tnn16/chunks.m3u8", "domain": "tnnthailand.com"},
-                {"name": "Nation TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/nation-tv/chunks.m3u8", "domain": "nationtv.tv"}
+                {"name": "ช่อง 7", "url": "https://ch7-web.cdn.byteark.com/live/playlist.m3u8", "domain": "ch7.com"},
+                {"name": "MCOT HD", "url": "https://mcot-web.cdn.byteark.com/live/playlist.m3u8", "domain": "mcot.net"},
+                {"name": "ไทยรัฐ TV", "url": "https://thairath-web.cdn.byteark.com/live/playlist.m3u8", "domain": "thairath.co.th"},
+                {"name": "อมรินทร์ TV", "url": "https://amarin-web.cdn.byteark.com/live/playlist.m3u8", "domain": "amarintv.com"},
+                {"name": "MONO 29", "url": "https://mono29-web.cdn.byteark.com/live/playlist.m3u8", "domain": "mono29.com"},
+                {"name": "WORKPOINT", "url": "https://workpoint-web.cdn.byteark.com/live/playlist.m3u8", "domain": "workpointtv.com"},
+                {"name": "PPTV", "url": "https://pptv-web.cdn.byteark.com/live/playlist.m3u8", "domain": "pptvhd36.com"},
+                {"name": "TNN16", "url": "https://tnn16-web.cdn.byteark.com/live/playlist.m3u8", "domain": "tnnthailand.com"},
+                {"name": "Nation TV", "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8", "domain": "nationtv.tv"}
             ]
         },
         {
-            "name": "dookeela [กีฬาและฟุตบอล]",
+            "name": "กีฬาและฟุตบอล",
             "stations": [
                 {"name": "beIN Sports 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8", "domain": "beinsports.com"},
                 {"name": "beIN Sports 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8", "domain": "beinsports.com"},
@@ -37,7 +34,7 @@ playlist_data = {
             ]
         },
         {
-            "name": "dookeela [ภาพยนตร์และสารคดี]",
+            "name": "ภาพยนตร์และสารคดี",
             "stations": [
                 {"name": "Animal Show", "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8", "domain": "animalplanet.com"},
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv"},
@@ -55,7 +52,7 @@ playlist_data = {
             ]
         },
         {
-            "name": "dookeela [การ์ตูนและเด็ก]",
+            "name": "การ์ตูนและเด็ก",
             "stations": [
                 {"name": "Cartoon Network", "url": "https://dij0k9i5q0gvn.cloudfront.net/cartoon-network/chunks.m3u8", "domain": "cartoonnetworkasia.com"},
                 {"name": "Nickelodeon", "url": "https://dij0k9i5q0gvn.cloudfront.net/nickelodeon/chunks.m3u8", "domain": "nick.com"},
@@ -72,10 +69,11 @@ m3u_lines = ["#EXTM3U"]
 for group in playlist_data["groups"]:
     for st in group["stations"]:
         logo = get_logo(st["domain"])
+        # ใส่ชื่อหมวดหมู่ที่ไม่มี dookeela นำหน้า
         m3u_lines.append(f'#EXTINF:-1 tvg-id="{st["name"]}" tvg-name="{st["name"]}" tvg-logo="{logo}" group-title="{group["name"]}",{st["name"]}')
         m3u_lines.append(st["url"])
 
 with open('playlist.m3u', 'w', encoding='utf-8') as f:
     f.write("\n".join(m3u_lines))
 
-print("สร้างไฟล์ playlist.m3u เรียบร้อยแล้ว (ฝังข้อมูลสำเร็จ)")
+print("สร้างไฟล์ playlist.m3u สำเร็จ (แก้ไขลิงก์และชื่อหมวดหมู่เรียบร้อย)")
