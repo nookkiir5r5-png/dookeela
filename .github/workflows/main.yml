@@ -1,24 +1,28 @@
-name: Update Dookeela Playlist
+name: Auto Update Playlist
 
 on:
-  schedule:
-    - cron: '0 8 * * *' # ทำงานอัตโนมัติทุกวัน ตอน 8 โมงเช้า
   workflow_dispatch:
+  # schedule:
+  #   - cron: '0 */6 * * *' # อัปเดตทุก 6 ชั่วโมง (เอา # ออกถ้าต้องการตั้งเวลา)
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
 
-      - name: Run Python Script
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run script
         run: python update_playlist.py
 
-      - name: Commit and Push playlist.json
+      - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add playlist.json
-          git commit -m "Auto update playlist" || exit 0
-          git push
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add playlist.json playlist.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist" && git push)
