@@ -1,13 +1,11 @@
 import urllib.request
 import re
 
-# ==========================================
-# 1. ดึงฟรีทีวีไทยจากฐานข้อมูลโลก (อัปเดตสดใหม่เสมอ)
-# ==========================================
-print("กำลังดึงลิงก์ฟรีทีวีไทยล่าสุด...")
+print("กำลังดึงลิงก์ฟรีทีวีไทยจากเซิร์ฟเวอร์เฉพาะของไทย (Akkradet)...")
 try:
-    # ดึงไฟล์ m3u ของประเทศไทยที่มีการอัปเดตลิงก์ทุกวันจากนักพัฒนาทั่วโลก
-    req = urllib.request.Request("https://iptv-org.github.io/iptv/countries/th.m3u")
+    # ดึงไฟล์ m3u จากนักพัฒนาคนไทยที่มีการอัปเดต Token อัตโนมัติ
+    req = urllib.request.Request("https://akkradet.github.io/IPTV-THAI/FREETV.m3u")
+    req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)')
     response = urllib.request.urlopen(req)
     th_m3u_raw = response.read().decode('utf-8').splitlines()
 except Exception as e:
@@ -16,7 +14,7 @@ except Exception as e:
 
 m3u_lines = ["#EXTM3U"]
 
-# กรองข้อมูลฟรีทีวีและจัดหมวดหมู่ใหม่เป็น Dookeela
+# 1. กรองข้อมูลฟรีทีวีและจัดหมวดหมู่ใหม่เป็น Dookeela
 for line in th_m3u_raw:
     if line.startswith("#EXTM3U"):
         continue
@@ -31,7 +29,7 @@ for line in th_m3u_raw:
         m3u_lines.append(line)
 
 # ==========================================
-# 2. เพิ่มช่อง กีฬา หนัง สารคดี และการ์ตูน
+# 2. เพิ่มช่อง กีฬา หนัง สารคดี และการ์ตูน ของคุณ
 # ==========================================
 def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
@@ -90,4 +88,4 @@ for group in custom_groups:
 with open('playlist.m3u', 'w', encoding='utf-8') as f:
     f.write("\n".join(m3u_lines))
 
-print("สร้างไฟล์ playlist.m3u สำเร็จ พร้อมฟรีทีวีที่อัปเดตอัตโนมัติ!")
+print("สร้างไฟล์ playlist.m3u และดึงช่องฟรีทีวีไทยสำเร็จ!")
