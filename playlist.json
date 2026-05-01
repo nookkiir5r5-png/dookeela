@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Updated Monomax 2)",
+  "name": "Mega Playlist 36 (All HBO Channels Restored)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -92,6 +92,36 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8",
           "domain": "truevisions.co.th",
           "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "HBO",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8",
+          "domain": "hbo.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "HBO Family",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8",
+          "domain": "hbo.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "HBO Hits",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8",
+          "domain": "hbo.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "HBO Signature",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8",
+          "domain": "hbo.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Cinemax",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8",
+          "domain": "cinemax.com",
+          "referer": "https://dookeela4.live/"
         }
       ]
     },
@@ -173,12 +203,6 @@
           "name": "National Geographic",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8",
           "domain": "nationalgeographic.com",
-          "referer": "https://dookeela4.live/"
-        },
-        {
-          "name": "HBO",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8",
-          "domain": "hbo.com",
           "referer": "https://dookeela4.live/"
         }
       ]
