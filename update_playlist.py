@@ -1,7 +1,7 @@
 import json
 
 playlist_data = {
-    "name": "Dookeela Mega Playlist 36 with Logos",
+    "name": "Dookeela Mega Playlist with Logos",
     "author": "AI Assistant",
     "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
     "groups": [
@@ -364,11 +364,11 @@ playlist_data = {
     ]
 }
 
-# 1. สร้างไฟล์ playlist.json
+# สร้างไฟล์ playlist.json
 with open('playlist.json', 'w', encoding='utf-8') as f:
     json.dump(playlist_data, f, ensure_ascii=False, indent=2)
 
-# 2. สร้างไฟล์ playlist.m3u
+# สร้างไฟล์ playlist.m3u ที่มีโลโก้
 m3u_lines = ["#EXTM3U"]
 for group in playlist_data["groups"]:
     for station in group["stations"]:
