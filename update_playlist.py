@@ -1,7 +1,7 @@
 import json
 
-playlist = {
-    "name": "Dookeela Mega Playlist with Logos",
+playlist_data = {
+    "name": "Dookeela Mega Playlist 36 with Logos",
     "author": "AI Assistant",
     "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
     "groups": [
@@ -126,40 +126,8 @@ playlist = {
                     "playInNatPlayer": True
                 },
                 {
-                    "name": "beIN Sports 4",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/BeIN_Sports_logo.png",
-                    "referer": "https://dookeela4.live/",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "playInNatPlayer": True
-                },
-                {
-                    "name": "beIN Sports 5",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/BeIN_Sports_logo.png",
-                    "referer": "https://dookeela4.live/",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "playInNatPlayer": True
-                },
-                {
-                    "name": "True Sport 1",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
-                    "referer": "https://dookeela4.live/",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "playInNatPlayer": True
-                },
-                {
                     "name": "True Sport 2",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
-                    "referer": "https://dookeela4.live/",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "playInNatPlayer": True
-                },
-                {
-                    "name": "True Sport 7",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8",
                     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -174,41 +142,9 @@ playlist = {
                     "playInNatPlayer": True
                 },
                 {
-                    "name": "Premier Football 2",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf2/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
-                    "referer": "https://dookeela4.live/",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "playInNatPlayer": True
-                },
-                {
                     "name": "SPOTV 1",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8",
                     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/SPOTV_logo.png",
-                    "referer": "https://dookeela4.live/",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "playInNatPlayer": True
-                },
-                {
-                    "name": "SPOTV 2",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/SPOTV_logo.png",
-                    "referer": "https://dookeela4.live/",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "playInNatPlayer": True
-                },
-                {
-                    "name": "MUTV",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/mutv/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/en/3/33/MUTV_logo.png",
-                    "referer": "https://dookeela4.live/",
-                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    "playInNatPlayer": True
-                },
-                {
-                    "name": "Golf Channel",
-                    "url": "https://dij0k9i5q0gvn.cloudfront.net/golf-channel/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Truevisions-logo.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -428,7 +364,19 @@ playlist = {
     ]
 }
 
+# 1. สร้างไฟล์ playlist.json
 with open('playlist.json', 'w', encoding='utf-8') as f:
-    json.dump(playlist, f, ensure_ascii=False, indent=2)
+    json.dump(playlist_data, f, ensure_ascii=False, indent=2)
 
-print("สร้างไฟล์ playlist.json สำเร็จ")
+# 2. สร้างไฟล์ playlist.m3u
+m3u_lines = ["#EXTM3U"]
+for group in playlist_data["groups"]:
+    for station in group["stations"]:
+        logo_url = station.get("logo", "")
+        m3u_lines.append(f'#EXTINF:-1 tvg-id="{station["name"]}" tvg-name="{station["name"]}" tvg-logo="{logo_url}" group-title="{group["name"]}",{station["name"]}')
+        m3u_lines.append(station["url"])
+
+with open('playlist.m3u', 'w', encoding='utf-8') as f:
+    f.write("\n".join(m3u_lines))
+
+print("สร้างไฟล์ playlist.json และ playlist.m3u สำเร็จ")
