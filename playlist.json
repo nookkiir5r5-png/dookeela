@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (With Cartoons)",
+  "name": "Mega Playlist 36 (Updated Monomax 2)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -36,7 +36,7 @@
         },
         {
           "name": "อมรินทร์ TV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8",
           "domain": "amarintv.com",
           "referer": "https://dookeela4.live/"
         },
@@ -86,6 +86,12 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8",
           "domain": "truevisions.co.th",
           "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "CCM",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
         }
       ]
     },
@@ -114,6 +120,18 @@
           "name": "beIN Sports 3",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8",
           "domain": "beinsports.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax 1",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8",
+          "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
         }
       ]

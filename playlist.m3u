@@ -20,7 +20,7 @@ https://thairath-web.cdn.byteark.com/live/playlist.m3u8|Referer=https://www.thai
 #EXTINF:-1 tvg-id="อมรินทร์ TV" tvg-name="อมรินทร์ TV" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=amarintv.com&sz=256" group-title="ฟรีทีวีและข่าว",อมรินทร์ TV
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
-https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8|Referer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="MONO 29" tvg-name="MONO 29" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=mono29.com&sz=256" group-title="ฟรีทีวีและข่าว",MONO 29
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
@@ -49,6 +49,10 @@ https://dij0k9i5q0gvn.cloudfront.net/truefilm1/chunks.m3u8|Referer=https://dooke
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",CCM
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="True Sport 1" tvg-name="True Sport 1" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Sport 1
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
@@ -65,6 +69,14 @@ https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8|Referer=https://dookeela4
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Monomax 1" tvg-name="Monomax 1" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Monomax 1
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Monomax 2" tvg-name="Monomax 2" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Monomax 2
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="Mysci" tvg-name="Mysci" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=footstv.com&sz=256" group-title="สารคดีและอื่นๆ",Mysci
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
