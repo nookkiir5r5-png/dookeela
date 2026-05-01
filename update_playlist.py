@@ -1,7 +1,7 @@
 import json
 
 playlist_data = {
-    "name": "Dookeela Mega Playlist with Logos",
+    "name": "Dookeela Mega Playlist 36 with Logos",
     "author": "AI Assistant",
     "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
     "groups": [
@@ -157,7 +157,7 @@ playlist_data = {
                 {
                     "name": "Animal Show",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Animal_Planet_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_Planet_logo.svg/512px-Animal_Planet_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -173,7 +173,7 @@ playlist_data = {
                 {
                     "name": "History Channel",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_History_Channel_%282008%29.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/The_History_Channel_%282008%29.svg/512px-The_History_Channel_%282008%29.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -181,7 +181,7 @@ playlist_data = {
                 {
                     "name": "Discovery Channel",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Discovery_Channel_2009_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Discovery_Channel_2009_logo.svg/512px-Discovery_Channel_2009_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -189,7 +189,7 @@ playlist_data = {
                 {
                     "name": "Discovery Asia",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Discovery_Channel_2009_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Discovery_Channel_2009_logo.svg/512px-Discovery_Channel_2009_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -197,7 +197,7 @@ playlist_data = {
                 {
                     "name": "National Geographic",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/National_Geographic_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/National_Geographic_logo.svg/512px-National_Geographic_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -213,7 +213,7 @@ playlist_data = {
                 {
                     "name": "HBO",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/HBO_logo.svg/512px-HBO_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -221,7 +221,7 @@ playlist_data = {
                 {
                     "name": "HBO Family",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/HBO_logo.svg/512px-HBO_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -229,7 +229,7 @@ playlist_data = {
                 {
                     "name": "HBO Hits",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/HBO_logo.svg/512px-HBO_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -237,7 +237,7 @@ playlist_data = {
                 {
                     "name": "HBO Signature",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/HBO_logo.svg/512px-HBO_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -245,7 +245,7 @@ playlist_data = {
                 {
                     "name": "Cinemax",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HBO_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/HBO_logo.svg/512px-HBO_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -285,7 +285,7 @@ playlist_data = {
                 {
                     "name": "Warner TV",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/warner-tv/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Warner_TV_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -293,7 +293,7 @@ playlist_data = {
                 {
                     "name": "AXN",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/axn/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/AXN_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/AXN_logo.svg/512px-AXN_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -322,7 +322,7 @@ playlist_data = {
                 {
                     "name": "Cartoon Network",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/cartoon-network/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cartoon_Network_logo_2010.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cartoon_Network_logo_2010.svg/512px-Cartoon_Network_logo_2010.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -330,7 +330,7 @@ playlist_data = {
                 {
                     "name": "Nickelodeon",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/nickelodeon/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nickelodeon_2023_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nickelodeon_2023_logo.svg/512px-Nickelodeon_2023_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -338,7 +338,7 @@ playlist_data = {
                 {
                     "name": "Nick Jr",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/nickjr/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Nick_Jr._2009_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nick_Jr._2009_logo.svg/512px-Nick_Jr._2009_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -346,7 +346,7 @@ playlist_data = {
                 {
                     "name": "DreamWorks",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/dreamworks/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/DreamWorks_Animation_logo.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/DreamWorks_Animation_logo.svg/512px-DreamWorks_Animation_logo.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -354,7 +354,7 @@ playlist_data = {
                 {
                     "name": "Boomerang",
                     "url": "https://dij0k9i5q0gvn.cloudfront.net/boomerang/chunks.m3u8",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Boomerang_logo_%282012%29.svg",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Boomerang_logo_%282012%29.svg/512px-Boomerang_logo_%282012%29.svg.png",
                     "referer": "https://dookeela4.live/",
                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                     "playInNatPlayer": True
@@ -368,7 +368,7 @@ playlist_data = {
 with open('playlist.json', 'w', encoding='utf-8') as f:
     json.dump(playlist_data, f, ensure_ascii=False, indent=2)
 
-# สร้างไฟล์ playlist.m3u ที่มีโลโก้
+# สร้างไฟล์ playlist.m3u
 m3u_lines = ["#EXTM3U"]
 for group in playlist_data["groups"]:
     for station in group["stations"]:
