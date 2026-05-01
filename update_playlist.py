@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Added Monomax Sports 104)",
+    "name": "Mega Playlist 36 (Added Monomax 3)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -53,9 +53,10 @@ playlist_data = {
                 {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "SPOTV 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8", "domain": "spotv.net", "referer": "https://dookeela4.live/"},
                 {"name": "SPOTV 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8", "domain": "spotv.net", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax Sports 104", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 
-                # --- เพิ่ม Monomax Sports 104 ---
-                {"name": "Monomax Sports 104", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
+                # --- เพิ่ม Monomax 3 ---
+                {"name": "Monomax 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-3/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
             ]
         },
         {
