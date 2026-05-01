@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Updated with Documentaries)",
+    "name": "Mega Playlist 36 (Updated National Geographic)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -61,9 +61,8 @@ playlist_data = {
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv", "referer": "https://dookeela4.live/"},
                 {"name": "History Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"},
                 {"name": "Discovery Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8", "domain": "discovery.com", "referer": "https://dookeela4.live/"},
-                {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"},
-                
-                # --- เพิ่มช่องสารคดีใหม่เข้าไป ---
+                # อัปเดตลิงก์ใหม่ของ National Geographic
+                {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"},
                 {"name": "BBC Earth", "url": "https://dij0k9i5q0gvn.cloudfront.net/bbc-earth/chunks.m3u8", "domain": "bbcearth.com", "referer": "https://dookeela4.live/"},
                 {"name": "Crime + Investigation", "url": "https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8", "domain": "crimeandinvestigation.co.uk", "referer": "https://dookeela4.live/"},
                 {"name": "DMAX", "url": "https://dij0k9i5q0gvn.cloudfront.net/dmax/chunks.m3u8", "domain": "dmax.de", "referer": "https://dookeela4.live/"},
@@ -108,4 +107,4 @@ with open('playlist.m3u', 'w', encoding='utf-8') as f:
 with open('playlist.json', 'w', encoding='utf-8') as f:
     json.dump(playlist_data, f, ensure_ascii=False, indent=2)
 
-print("สร้างไฟล์ playlist สำเร็จ")
+print("อัปเดตไฟล์ playlist สำเร็จ")
