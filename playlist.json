@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (All HBO Channels Restored)",
+  "name": "Mega Playlist 36 (Updated & Restored)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -36,7 +36,7 @@
         },
         {
           "name": "อมรินทร์ TV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8",
           "domain": "amarintv.com",
           "referer": "https://dookeela4.live/"
         },
@@ -135,6 +135,42 @@
           "referer": "https://dookeela4.live/"
         },
         {
+          "name": "True Sport 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Sport 3",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp3/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Sport 4",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp4/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Sport 5",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp5/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Sport 6",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp6/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Sport 7",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
           "name": "beIN Sports 1",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8",
           "domain": "beinsports.com",
@@ -173,6 +209,12 @@
           "name": "Mysci",
           "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=2899307&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDEvMjAyNiAwMTozNDoyNyBQTSZoYXNoX3ZhbHVlPSs4OXJ1bXFscEYxRUxBRWYvVWFrU3c9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
           "domain": "footstv.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "BBC Lifestyle",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/bbc-lifestyle/chunks.m3u8",
+          "domain": "bbclifestyle.com",
           "referer": "https://dookeela4.live/"
         },
         {
