@@ -1,5 +1,5 @@
 {
-  "name": "Dookeela Mega Playlist 36",
+  "name": "Dookeela Mega Playlist 36 (Updated Links)",
   "author": "AI Assistant",
   "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
   "groups": [
@@ -8,56 +8,50 @@
       "stations": [
         {
           "name": "ช่อง 3",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/ch3/chunks.m3u8",
+          "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=ch3plus.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=ch3plus.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
           "name": "ช่อง 5",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/ch5/chunks.m3u8",
+          "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=tv5hd1.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=tv5hd1.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
           "name": "ช่อง 7",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/ch7/chunks.m3u8",
+          "url": "http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=ch7.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=ch7.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
           "name": "MCOT HD",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/ch9/chunks.m3u8",
+          "url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=mcot.net&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=mcot.net&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
           "name": "ไทยรัฐ TV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/thairath-tv/chunks.m3u8",
+          "url": "https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=thairath.co.th&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=thairath.co.th&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
           "name": "อมรินทร์ TV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8",
+          "url": "https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=amarintv.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=amarintv.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -65,17 +59,15 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/mono29/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=mono29.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=mono29.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
           "name": "WORKPOINT",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/workpoint/chunks.m3u8",
+          "url": "https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=workpointtv.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=workpointtv.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -83,26 +75,23 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=pptvhd36.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=pptvhd36.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
           "name": "TNN16",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/tnn16/chunks.m3u8",
+          "url": "https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=tnnthailand.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=tnnthailand.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
           "name": "Nation TV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/nation-tv/chunks.m3u8",
+          "url": "https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nationtv.tv&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=nationtv.tv&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         }
       ]
@@ -115,8 +104,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -124,8 +112,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -133,8 +120,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -142,8 +128,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -151,8 +136,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -160,8 +144,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -169,8 +152,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -178,8 +160,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -187,8 +168,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf1/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=trueid.net&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=trueid.net&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -196,8 +176,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf2/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=trueid.net&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=trueid.net&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -205,8 +184,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -214,8 +192,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -223,8 +200,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/mutv/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=manutd.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=manutd.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -232,8 +208,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/golf-channel/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=golfchannel.co.th&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=golfchannel.co.th&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         }
       ]
@@ -246,8 +221,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=animalplanet.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=animalplanet.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -255,8 +229,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nextstep.tv&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=nextstep.tv&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -264,8 +237,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=history.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=history.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -273,8 +245,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -282,8 +253,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -291,8 +261,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nationalgeographic.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=nationalgeographic.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -300,8 +269,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=crimeandinvestigation.co.uk&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=crimeandinvestigation.co.uk&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -309,8 +277,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -318,8 +285,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -327,8 +293,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -336,8 +301,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -345,8 +309,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=cinemax.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=cinemax.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -354,8 +317,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/fashion-tv/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=fashiontv.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=fashiontv.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -363,8 +325,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/rock-ent/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=rockentertainment.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=rockentertainment.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -372,8 +333,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/rock-action/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=rockentertainment.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=rockentertainment.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -381,8 +341,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/true-asian-more/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -390,8 +349,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/warner-tv/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=warnertvasia.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=warnertvasia.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -399,8 +357,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/axn/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=axn-asia.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=axn-asia.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -408,8 +365,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/tvn-asia/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=tvnasia.net&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=tvnasia.net&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -417,8 +373,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/lifetime/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=mylifetime.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=mylifetime.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         }
       ]
@@ -431,8 +386,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/cartoon-network/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=cartoonnetworkasia.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=cartoonnetworkasia.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -440,8 +394,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nickelodeon/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nick.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=nick.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -449,8 +402,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nickjr/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=nickjr.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=nickjr.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -458,8 +410,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/dreamworks/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=dreamworks.com&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=dreamworks.com&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         },
         {
@@ -467,8 +418,7 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/boomerang/chunks.m3u8",
           "logo": "https://s2.googleusercontent.com/s2/favicons?domain=boomerangtv.co.th&sz=256",
           "image": "https://s2.googleusercontent.com/s2/favicons?domain=boomerangtv.co.th&sz=256",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "userAgent": "Mozilla/5.0",
           "playInNatPlayer": true
         }
       ]
