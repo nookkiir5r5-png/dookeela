@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Sorted Sports)",
+    "name": "Mega Playlist 36 (Sorted Sports & Added TPF/Monomax Sports 8)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -48,6 +48,11 @@ playlist_data = {
                 {"name": "True Sport 6", "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp6/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Sport 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 
+                # กลุ่ม True Premier Football (TPF)
+                {"name": "TPF 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf3/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "TPF 4", "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf4/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "TPF 5", "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf5/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                
                 # กลุ่ม beIN Sports
                 {"name": "beIN Sports 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "beIN Sports 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
@@ -67,6 +72,7 @@ playlist_data = {
                 {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-3/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports7/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax Sports 8", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports8/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 104", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
             ]
         },
@@ -123,4 +129,4 @@ with open('playlist.m3u', 'w', encoding='utf-8') as f:
 with open('playlist.json', 'w', encoding='utf-8') as f:
     json.dump(playlist_data, f, ensure_ascii=False, indent=2)
 
-print("จัดเรียงและสร้างไฟล์ playlist สำเร็จ")
+print("สร้างไฟล์ playlist สำเร็จ")
