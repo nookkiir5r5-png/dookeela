@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Sorted Sports)",
+  "name": "Mega Playlist 36 (Sorted Sports & Added TPF/Monomax Sports 8)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -177,6 +177,24 @@
           "referer": "https://dookeela4.live/"
         },
         {
+          "name": "TPF 3",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf3/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "TPF 4",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf4/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "TPF 5",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/tpf5/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
           "name": "beIN Sports 1",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8",
           "domain": "beinsports.com",
@@ -245,6 +263,12 @@
         {
           "name": "Monomax Sports 7",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports7/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax Sports 8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports8/chunks.m3u8",
           "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
         },
