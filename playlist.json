@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Sorted Sports & Added Monomax 4-7)",
+  "name": "Mega Playlist 36 (Updated Amarin TV & Added Movies/Series/TV)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -36,7 +36,7 @@
         },
         {
           "name": "อมรินทร์ TV",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8",
           "domain": "amarintv.com",
           "referer": "https://dookeela4.live/"
         },
@@ -75,6 +75,12 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/one31/chunks.m3u8",
           "domain": "one31.net",
           "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Thai PBS",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/thaipbs/chunks.m3u8",
+          "domain": "thaipbs.or.th",
+          "referer": "https://dookeela4.live/"
         }
       ]
     },
@@ -94,8 +100,32 @@
           "referer": "https://dookeela4.live/"
         },
         {
-          "name": "CCM",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8",
+          "name": "True Film Asia",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilmasia/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Movie Hits",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/truemoviehits/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Series",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/trueseries/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Thai Film",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/truethaifilm/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True X-zyte",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8",
           "domain": "truevisions.co.th",
           "referer": "https://dookeela4.live/"
         },
@@ -127,6 +157,30 @@
           "name": "Cinemax",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8",
           "domain": "cinemax.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "CCM",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Warner TV",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/warnertv/chunks.m3u8",
+          "domain": "warnertv.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "HITS",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hits/chunks.m3u8",
+          "domain": "hitstv.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "HITS Movies",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/hits-movies/chunks.m3u8",
+          "domain": "hitstv.com",
           "referer": "https://dookeela4.live/"
         }
       ]
@@ -321,6 +375,12 @@
           "referer": "https://dookeela4.live/"
         },
         {
+          "name": "Monomax Sports 9",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports9/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
           "name": "Monomax Sports 11",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports11/chunks.m3u8",
           "domain": "monomax.me",
@@ -341,6 +401,12 @@
         {
           "name": "Monomax Sports 102",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports102/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax Sports 103",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports103/chunks.m3u8",
           "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
         },
