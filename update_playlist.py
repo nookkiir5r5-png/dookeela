@@ -66,6 +66,7 @@ playlist_data = {
                 {"name": "Monomax 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-3/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax Sports 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports7/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 104", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
             ]
         },
