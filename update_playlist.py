@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Sorted Sports & Added Monomax 4-7)",
+    "name": "Mega Playlist 36 (Updated Amarin TV & Added Movies/Series/TV)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -14,26 +14,40 @@ playlist_data = {
                 {"name": "ช่อง 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/ch7hd/chunks.m3u8", "domain": "ch7.com", "referer": "https://dookeela4.live/"},
                 {"name": "MCOT HD", "url": "https://dij0k9i5q0gvn.cloudfront.net/mcothd/chunks.m3u8", "domain": "mcot.net", "referer": "https://dookeela4.live/"},
                 {"name": "ไทยรัฐ TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/thairathtv/chunks.m3u8", "domain": "thairath.co.th", "referer": "https://dookeela4.live/"},
-                {"name": "อมรินทร์ TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/amarin-tv/chunks.m3u8", "domain": "amarintv.com", "referer": "https://dookeela4.live/"},
+                {"name": "อมรินทร์ TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8", "domain": "amarintv.com", "referer": "https://dookeela4.live/"},
                 {"name": "MONO 29", "url": "https://dij0k9i5q0gvn.cloudfront.net/mono29/chunks.m3u8", "domain": "mono29.com", "referer": "https://dookeela4.live/"},
                 {"name": "WORKPOINT", "url": "https://workpoint-web.cdn.byteark.com/live/playlist.m3u8", "domain": "workpointtv.com", "referer": "https://www.workpointtv.com/"},
                 {"name": "PPTV", "url": "https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8", "domain": "pptvhd36.com", "referer": "https://dookeela4.live/"},
                 {"name": "TNN16", "url": "https://tnn16-web.cdn.byteark.com/live/playlist.m3u8", "domain": "tnnthailand.com", "referer": "https://www.tnnthailand.com/"},
                 {"name": "Nation TV", "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8", "domain": "nationtv.tv", "referer": "https://www.nationtv.tv/"},
-                {"name": "One 31", "url": "https://dij0k9i5q0gvn.cloudfront.net/one31/chunks.m3u8", "domain": "one31.net", "referer": "https://dookeela4.live/"}
+                {"name": "One 31", "url": "https://dij0k9i5q0gvn.cloudfront.net/one31/chunks.m3u8", "domain": "one31.net", "referer": "https://dookeela4.live/"},
+                {"name": "Thai PBS", "url": "https://dij0k9i5q0gvn.cloudfront.net/thaipbs/chunks.m3u8", "domain": "thaipbs.or.th", "referer": "https://dookeela4.live/"}
             ]
         },
         {
             "name": "ภาพยนตร์และบันเทิง",
             "stations": [
+                # กลุ่ม True Visions
                 {"name": "True Film 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm1/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Film 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
-                {"name": "CCM", "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "True Film Asia", "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilmasia/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "True Movie Hits", "url": "https://dij0k9i5q0gvn.cloudfront.net/truemoviehits/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "True Series", "url": "https://dij0k9i5q0gvn.cloudfront.net/trueseries/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "True Thai Film", "url": "https://dij0k9i5q0gvn.cloudfront.net/truethaifilm/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "True X-zyte", "url": "https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                
+                # กลุ่ม HBO & Cinemax
                 {"name": "HBO", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "HBO Family", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "HBO Hits", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "HBO Signature", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
-                {"name": "Cinemax", "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8", "domain": "cinemax.com", "referer": "https://dookeela4.live/"}
+                {"name": "Cinemax", "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8", "domain": "cinemax.com", "referer": "https://dookeela4.live/"},
+                
+                # กลุ่มความบันเทิงอื่นๆ
+                {"name": "CCM", "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "Warner TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/warnertv/chunks.m3u8", "domain": "warnertv.com", "referer": "https://dookeela4.live/"},
+                {"name": "HITS", "url": "https://dij0k9i5q0gvn.cloudfront.net/hits/chunks.m3u8", "domain": "hitstv.com", "referer": "https://dookeela4.live/"},
+                {"name": "HITS Movies", "url": "https://dij0k9i5q0gvn.cloudfront.net/hits-movies/chunks.m3u8", "domain": "hitstv.com", "referer": "https://dookeela4.live/"}
             ]
         },
         {
@@ -81,10 +95,12 @@ playlist_data = {
                 {"name": "Monomax 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-7/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports7/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 8", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports8/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax Sports 9", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports9/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 11", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports11/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 12", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports12/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 101", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports101/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 102", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports102/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax Sports 103", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports103/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 104", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
             ]
         },
