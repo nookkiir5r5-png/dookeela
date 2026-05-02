@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Sorted Sports & Added TPF/Monomax Sports 8)",
+  "name": "Mega Playlist 36 (Sorted Sports & Added beIN 4, Monomax Sports 101/11)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -213,6 +213,12 @@
           "referer": "https://dookeela4.live/"
         },
         {
+          "name": "beIN Sports 4",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8",
+          "domain": "beinsports.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
           "name": "SPOTV 1",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8",
           "domain": "spotv.net",
@@ -269,6 +275,18 @@
         {
           "name": "Monomax Sports 8",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports8/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax Sports 11",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports11/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax Sports 101",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports101/chunks.m3u8",
           "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
         },
