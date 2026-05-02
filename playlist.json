@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Added Monomax 3)",
+  "name": "Mega Playlist 36 (Sorted Sports)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -195,18 +195,6 @@
           "referer": "https://dookeela4.live/"
         },
         {
-          "name": "Monomax 1",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8",
-          "domain": "monomax.me",
-          "referer": "https://dookeela4.live/"
-        },
-        {
-          "name": "Monomax 2",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8",
-          "domain": "monomax.me",
-          "referer": "https://dookeela4.live/"
-        },
-        {
           "name": "SPOTV 1",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8",
           "domain": "spotv.net",
@@ -219,14 +207,44 @@
           "referer": "https://dookeela4.live/"
         },
         {
-          "name": "Monomax Sports 104",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8",
+          "name": "Prime Video NBA 1",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/primevideonba1/chunks.m3u8",
+          "domain": "amazon.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Prime Video NBA 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/primevideonba2/chunks.m3u8",
+          "domain": "amazon.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Prime Video NBA 3",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/primevideonba3/chunks.m3u8",
+          "domain": "amazon.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax 1",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8",
           "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
         },
         {
           "name": "Monomax 3",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-3/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax Sports 104",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8",
           "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
         }
