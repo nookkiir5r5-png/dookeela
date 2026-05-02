@@ -179,6 +179,22 @@ https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8|Referer=https://dooke
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://dij0k9i5q0gvn.cloudfront.net/monomax-3/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Monomax 4" tvg-name="Monomax 4" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Monomax 4
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/monomax-4/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Monomax 5" tvg-name="Monomax 5" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Monomax 5
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/monomax-5/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Monomax 6" tvg-name="Monomax 6" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Monomax 6
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/monomax-6/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Monomax 7" tvg-name="Monomax 7" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Monomax 7
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://dij0k9i5q0gvn.cloudfront.net/monomax-7/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="Monomax Sports 7" tvg-name="Monomax Sports 7" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Monomax Sports 7
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
