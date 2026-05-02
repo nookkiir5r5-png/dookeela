@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Sorted Sports & Added beIN 4, Monomax Sports 101/11)",
+    "name": "Mega Playlist 36 (Sorted Sports & Added beIN 5-7, Monomax 12/102)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -58,6 +58,9 @@ playlist_data = {
                 {"name": "beIN Sports 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "beIN Sports 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "beIN Sports 4", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
+                {"name": "beIN Sports 5", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
+                {"name": "beIN Sports 6", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein6/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
+                {"name": "beIN Sports 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein7/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 
                 # กลุ่ม SPOTV
                 {"name": "SPOTV 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8", "domain": "spotv.net", "referer": "https://dookeela4.live/"},
@@ -75,7 +78,9 @@ playlist_data = {
                 {"name": "Monomax Sports 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports7/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 8", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports8/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 11", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports11/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax Sports 12", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports12/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 101", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports101/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax Sports 102", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports102/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 104", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
             ]
         },
