@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Sorted Sports & Added beIN 5-7, Monomax 12/102)",
+    "name": "Mega Playlist 36 (Sorted Sports & Added Monomax 4-7)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -75,6 +75,10 @@ playlist_data = {
                 {"name": "Monomax 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-3/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax 4", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-4/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax 5", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-5/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax 6", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-6/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-7/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports7/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 8", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports8/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 11", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports11/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
