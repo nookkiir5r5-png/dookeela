@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Updated Mysci & Added Channels)",
+  "name": "Mega Playlist 36 (Corrected Mysci Source)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -442,13 +442,13 @@
         {
           "name": "Mysci Link 1",
           "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=3013060&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNiAwOToyODowOCBBTSZoYXNoX3ZhbHVlPUlOaEcvcVBiOG1sT0RWZ0xtSW82Smc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
-          "domain": "footstv.com",
+          "domain": "dooflixtv.com",
           "referer": "https://dookeela4.live/"
         },
         {
           "name": "Mysci Link 2",
           "url": "https://alpha.footstv.com/dooflix_x1/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNiAwOToyODowOCBBTSZoYXNoX3ZhbHVlPUlOaEcvcVBiOG1sT0RWZ0xtSW82Smc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
-          "domain": "footstv.com",
+          "domain": "dooflixtv.com",
           "referer": "https://dookeela4.live/"
         },
         {
