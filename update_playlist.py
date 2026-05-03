@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Updated Amarin TV & Added Movies/Series/TV)",
+    "name": "Mega Playlist 36 (Updated Mysci & Added Channels)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -27,7 +27,6 @@ playlist_data = {
         {
             "name": "ภาพยนตร์และบันเทิง",
             "stations": [
-                # กลุ่ม True Visions
                 {"name": "True Film 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm1/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Film 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Film Asia", "url": "https://dij0k9i5q0gvn.cloudfront.net/truefilmasia/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
@@ -35,15 +34,11 @@ playlist_data = {
                 {"name": "True Series", "url": "https://dij0k9i5q0gvn.cloudfront.net/trueseries/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Thai Film", "url": "https://dij0k9i5q0gvn.cloudfront.net/truethaifilm/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True X-zyte", "url": "https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
-                
-                # กลุ่ม HBO & Cinemax
                 {"name": "HBO", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "HBO Family", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "HBO Hits", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "HBO Signature", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "Cinemax", "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8", "domain": "cinemax.com", "referer": "https://dookeela4.live/"},
-                
-                # กลุ่มความบันเทิงอื่นๆ
                 {"name": "CCM", "url": "https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "Warner TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/warnertv/chunks.m3u8", "domain": "warnertv.com", "referer": "https://dookeela4.live/"},
                 {"name": "HITS", "url": "https://dij0k9i5q0gvn.cloudfront.net/hits/chunks.m3u8", "domain": "hitstv.com", "referer": "https://dookeela4.live/"},
@@ -101,13 +96,17 @@ playlist_data = {
                 {"name": "Monomax Sports 101", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports101/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 102", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports102/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax Sports 103", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports103/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
-                {"name": "Monomax Sports 104", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
+                {"name": "Monomax Sports 104", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "True Tennis", "url": "https://dij0k9i5q0gvn.cloudfront.net/truetennis/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "Play Sports 55", "url": "https://dij0k9i5q0gvn.cloudfront.net/playsports55/chunks.m3u8", "domain": "playsports.com", "referer": "https://dookeela4.live/"},
+                {"name": "Play Sports 41", "url": "https://dij0k9i5q0gvn.cloudfront.net/playsports41/chunks.m3u8", "domain": "playsports.com", "referer": "https://dookeela4.live/"}
             ]
         },
         {
             "name": "สารคดีและอื่นๆ",
             "stations": [
-                {"name": "Mysci", "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=2899307&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDEvMjAyNiAwMTozNDoyNyBQTSZoYXNoX3ZhbHVlPSs4OXJ1bXFscEYxRUxBRWYvVWFrU3c9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz", "domain": "footstv.com", "referer": "https://dookeela4.live/"},
+                {"name": "Mysci Link 1", "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=3013060&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNiAwOToyODowOCBBTSZoYXNoX3ZhbHVlPUlOaEcvcVBiOG1sT0RWZ0xtSW82Smc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz", "domain": "footstv.com", "referer": "https://dookeela4.live/"},
+                {"name": "Mysci Link 2", "url": "https://alpha.footstv.com/dooflix_x1/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNiAwOToyODowOCBBTSZoYXNoX3ZhbHVlPUlOaEcvcVBiOG1sT0RWZ0xtSW82Smc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz", "domain": "footstv.com", "referer": "https://dookeela4.live/"},
                 {"name": "BBC Lifestyle", "url": "https://dij0k9i5q0gvn.cloudfront.net/bbc-lifestyle/chunks.m3u8", "domain": "bbclifestyle.com", "referer": "https://dookeela4.live/"},
                 {"name": "Animal Show", "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8", "domain": "animalplanet.com", "referer": "https://dookeela4.live/"},
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv", "referer": "https://dookeela4.live/"},
