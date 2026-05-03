@@ -1,28 +1,32 @@
-name: Auto Update Playlist
+name: อัปเดตเพลย์ลิสต์อัตโนมัติ
 
 on:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    branches: [ main ]
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 */6 * * *' # อัปเดตทุก 6 ชั่วโมง (เอา # ออกถ้าต้องการตั้งเวลา)
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-
-      - name: Set up Python
+      - name: ติดตั้ง Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-
-      - name: Run script
+      
+      # *** เพิ่มตรงส่วนนี้เพื่อแก้ปัญหา ModuleNotFoundError ***
+      - name: ติดตั้งไลบรารีที่จำเป็น
+        run: pip install requests
+      
+      - name: รันสคริปต์อัปเดต
         run: python update_playlist.py
-
-      - name: Commit and push changes
+      - name: ทำการ Commit และ Push ข้อมูล
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add playlist.json playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist" && git push)
+          git config --global user.name "github-actions"
+          git config --global user.email "action@github.com"
+          git add playlist.m3u playlist.json
+          git commit -m "Auto-update playlist" || exit 0
+          git push
