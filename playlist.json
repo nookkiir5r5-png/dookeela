@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Updated Amarin TV & Added Movies/Series/TV)",
+  "name": "Mega Playlist 36 (Updated Mysci & Added Channels)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -415,6 +415,24 @@
           "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-sports104/chunks.m3u8",
           "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Tennis",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/truetennis/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Play Sports 55",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/playsports55/chunks.m3u8",
+          "domain": "playsports.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Play Sports 41",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/playsports41/chunks.m3u8",
+          "domain": "playsports.com",
+          "referer": "https://dookeela4.live/"
         }
       ]
     },
@@ -422,8 +440,14 @@
       "name": "สารคดีและอื่นๆ",
       "stations": [
         {
-          "name": "Mysci",
-          "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=2899307&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDEvMjAyNiAwMTozNDoyNyBQTSZoYXNoX3ZhbHVlPSs4OXJ1bXFscEYxRUxBRWYvVWFrU3c9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+          "name": "Mysci Link 1",
+          "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=3013060&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNiAwOToyODowOCBBTSZoYXNoX3ZhbHVlPUlOaEcvcVBiOG1sT0RWZ0xtSW82Smc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+          "domain": "footstv.com",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Mysci Link 2",
+          "url": "https://alpha.footstv.com/dooflix_x1/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNiAwOToyODowOCBBTSZoYXNoX3ZhbHVlPUlOaEcvcVBiOG1sT0RWZ0xtSW82Smc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
           "domain": "footstv.com",
           "referer": "https://dookeela4.live/"
         },
