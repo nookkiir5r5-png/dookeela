@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Corrected Mysci Source)",
+    "name": "Mega Playlist 36 (Mysci Removed)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -105,8 +105,6 @@ playlist_data = {
         {
             "name": "สารคดีและอื่นๆ",
             "stations": [
-                {"name": "Mysci Link 1", "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=3013060&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNiAwOToyODowOCBBTSZoYXNoX3ZhbHVlPUlOaEcvcVBiOG1sT0RWZ0xtSW82Smc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz", "domain": "dooflixtv.com", "referer": "https://dookeela4.live/"},
-                {"name": "Mysci Link 2", "url": "https://alpha.footstv.com/dooflix_x1/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNiAwOToyODowOCBBTSZoYXNoX3ZhbHVlPUlOaEcvcVBiOG1sT0RWZ0xtSW82Smc9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz", "domain": "dooflixtv.com", "referer": "https://dookeela4.live/"},
                 {"name": "BBC Lifestyle", "url": "https://dij0k9i5q0gvn.cloudfront.net/bbc-lifestyle/chunks.m3u8", "domain": "bbclifestyle.com", "referer": "https://dookeela4.live/"},
                 {"name": "Animal Show", "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8", "domain": "animalplanet.com", "referer": "https://dookeela4.live/"},
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv", "referer": "https://dookeela4.live/"},
