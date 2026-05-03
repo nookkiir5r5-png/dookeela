@@ -4,7 +4,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Mysci Removed)",
+    "name": "Mega Playlist 36 (Added Monomax Backup Group)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -100,6 +100,21 @@ playlist_data = {
                 {"name": "True Tennis", "url": "https://dij0k9i5q0gvn.cloudfront.net/truetennis/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "Play Sports 55", "url": "https://dij0k9i5q0gvn.cloudfront.net/playsports55/chunks.m3u8", "domain": "playsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "Play Sports 41", "url": "https://dij0k9i5q0gvn.cloudfront.net/playsports41/chunks.m3u8", "domain": "playsports.com", "referer": "https://dookeela4.live/"}
+            ]
+        },
+        {
+            "name": "สำรองmonomax",
+            "stations": [
+                {"name": "สำรองmonomax1", "url": "https://live-sport-1.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax2", "url": "https://live-sport-2.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax3", "url": "https://live-sport-3.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax4", "url": "https://live-sport-4.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax5", "url": "https://live-sport-5.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax6", "url": "https://live-sport-6.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax7", "url": "https://live-sport-7.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax8", "url": "https://live-sport-8.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax9", "url": "https://live-sport-9.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "สำรองmonomax10", "url": "https://live-sport-10.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
             ]
         },
         {
