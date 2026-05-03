@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (Added Monomax Backup Group)",
+  "name": "Mega Playlist 36 (Added Monomax 11-12)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -496,6 +496,18 @@
         {
           "name": "สำรองmonomax10",
           "url": "https://live-sport-10.monomax.me/c/index-hls.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "สำรองmonomax11",
+          "url": "https://live-sport-11.monomax.me/c/index-hls.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "สำรองmonomax12",
+          "url": "https://live-sport-12.monomax.me/c/index-hls.m3u8",
           "domain": "monomax.me",
           "referer": "https://dookeela4.live/"
         }

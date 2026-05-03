@@ -319,6 +319,14 @@ https://live-sport-9.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://live-sport-10.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="สำรองmonomax11" tvg-name="สำรองmonomax11" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax11
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://live-sport-11.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="สำรองmonomax12" tvg-name="สำรองmonomax12" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax12
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+https://live-sport-12.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=bbclifestyle.com&sz=256" group-title="สารคดีและอื่นๆ",BBC Lifestyle
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
