@@ -1,391 +1,391 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ช่อง 3" tvg-name="ช่อง 3" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=ch3plus.com&sz=256" group-title="ฟรีทีวีและข่าว",ช่อง 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/ch3hd/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/ch3hd/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ช่อง 5" tvg-name="ช่อง 5" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=tv5hd1.com&sz=256" group-title="ฟรีทีวีและข่าว",ช่อง 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/ch5hd/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/ch5hd/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ช่อง 7" tvg-name="ช่อง 7" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=ch7.com&sz=256" group-title="ฟรีทีวีและข่าว",ช่อง 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/ch7hd/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/ch7hd/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MCOT HD" tvg-name="MCOT HD" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=mcot.net&sz=256" group-title="ฟรีทีวีและข่าว",MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/mcothd/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/mcothd/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ไทยรัฐ TV" tvg-name="ไทยรัฐ TV" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=thairath.co.th&sz=256" group-title="ฟรีทีวีและข่าว",ไทยรัฐ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/thairathtv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/thairathtv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="อมรินทร์ TV" tvg-name="อมรินทร์ TV" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=amarintv.com&sz=256" group-title="ฟรีทีวีและข่าว",อมรินทร์ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/amarintv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MONO 29" tvg-name="MONO 29" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=mono29.com&sz=256" group-title="ฟรีทีวีและข่าว",MONO 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/mono29/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/mono29/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="WORKPOINT" tvg-name="WORKPOINT" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=workpointtv.com&sz=256" group-title="ฟรีทีวีและข่าว",WORKPOINT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.workpointtv.com/
-#EXTHTTP:{"referer":"https://www.workpointtv.com/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://workpoint-web.cdn.byteark.com/live/playlist.m3u8|Referer=https://www.workpointtv.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://www.workpointtv.com/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://workpoint-web.cdn.byteark.com/live/playlist.m3u8|Referer=https://www.workpointtv.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="PPTV" tvg-name="PPTV" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=pptvhd36.com&sz=256" group-title="ฟรีทีวีและข่าว",PPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TNN16" tvg-name="TNN16" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=tnnthailand.com&sz=256" group-title="ฟรีทีวีและข่าว",TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tnnthailand.com/
-#EXTHTTP:{"referer":"https://www.tnnthailand.com/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://tnn16-web.cdn.byteark.com/live/playlist.m3u8|Referer=https://www.tnnthailand.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://www.tnnthailand.com/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://tnn16-web.cdn.byteark.com/live/playlist.m3u8|Referer=https://www.tnnthailand.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Nation TV" tvg-name="Nation TV" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=nationtv.tv&sz=256" group-title="ฟรีทีวีและข่าว",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.nationtv.tv/
-#EXTHTTP:{"referer":"https://www.nationtv.tv/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://nation-web.cdn.byteark.com/live/playlist.m3u8|Referer=https://www.nationtv.tv/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://www.nationtv.tv/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://nation-web.cdn.byteark.com/live/playlist.m3u8|Referer=https://www.nationtv.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="One 31" tvg-name="One 31" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=one31.net&sz=256" group-title="ฟรีทีวีและข่าว",One 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/one31/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/one31/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Thai PBS" tvg-name="Thai PBS" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=thaipbs.or.th&sz=256" group-title="ฟรีทีวีและข่าว",Thai PBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/thaipbs/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/thaipbs/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Film 1" tvg-name="True Film 1" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",True Film 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/truefilm1/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/truefilm1/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Film 2" tvg-name="True Film 2" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",True Film 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Film Asia" tvg-name="True Film Asia" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",True Film Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/truefilmasia/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/truefilmasia/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Movie Hits" tvg-name="True Movie Hits" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",True Movie Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/truemoviehits/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/truemoviehits/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Series" tvg-name="True Series" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",True Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/trueseries/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/trueseries/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Thai Film" tvg-name="True Thai Film" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",True Thai Film
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/truethaifilm/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/truethaifilm/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True X-zyte" tvg-name="True X-zyte" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",True X-zyte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256" group-title="ภาพยนตร์และบันเทิง",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/hbo/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256" group-title="ภาพยนตร์และบันเทิง",HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256" group-title="ภาพยนตร์และบันเทิง",HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=hbo.com&sz=256" group-title="ภาพยนตร์และบันเทิง",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=cinemax.com&sz=256" group-title="ภาพยนตร์และบันเทิง",Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="ภาพยนตร์และบันเทิง",CCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/ccm/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=warnertv.com&sz=256" group-title="ภาพยนตร์และบันเทิง",Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/warnertv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/warnertv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=hitstv.com&sz=256" group-title="ภาพยนตร์และบันเทิง",HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/hits/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/hits/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HITS Movies" tvg-name="HITS Movies" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=hitstv.com&sz=256" group-title="ภาพยนตร์และบันเทิง",HITS Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/hits-movies/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/hits-movies/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Sport 1" tvg-name="True Sport 1" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Sport 2" tvg-name="True Sport 2" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Sport 3" tvg-name="True Sport 3" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tsp3/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tsp3/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Sport 4" tvg-name="True Sport 4" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tsp4/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tsp4/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Sport 5" tvg-name="True Sport 5" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tsp5/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tsp5/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Sport 6" tvg-name="True Sport 6" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Sport 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tsp6/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tsp6/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Sport 7" tvg-name="True Sport 7" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Sport 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TPF 3" tvg-name="TPF 3" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",TPF 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tpf3/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tpf3/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TPF 4" tvg-name="TPF 4" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",TPF 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tpf4/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tpf4/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TPF 5" tvg-name="TPF 5" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",TPF 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/tpf5/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/tpf5/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256" group-title="กีฬาและฟุตบอล",beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256" group-title="กีฬาและฟุตบอล",beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256" group-title="กีฬาและฟุตบอล",beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256" group-title="กีฬาและฟุตบอล",beIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256" group-title="กีฬาและฟุตบอล",beIN Sports 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beIN Sports 6" tvg-name="beIN Sports 6" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256" group-title="กีฬาและฟุตบอล",beIN Sports 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bein6/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bein6/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="beIN Sports 7" tvg-name="beIN Sports 7" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=beinsports.com&sz=256" group-title="กีฬาและฟุตบอล",beIN Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bein7/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bein7/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SPOTV 1" tvg-name="SPOTV 1" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256" group-title="กีฬาและฟุตบอล",SPOTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/spotv/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=spotv.net&sz=256" group-title="กีฬาและฟุตบอล",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/spotv2/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Tennis" tvg-name="True Tennis" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",True Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/truetennis/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/truetennis/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Play Sports 55" tvg-name="Play Sports 55" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=playsports.com&sz=256" group-title="กีฬาและฟุตบอล",Play Sports 55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/playsports55/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/playsports55/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Play Sports 41" tvg-name="Play Sports 41" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=playsports.com&sz=256" group-title="กีฬาและฟุตบอล",Play Sports 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/playsports41/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/playsports41/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax1" tvg-name="สำรองmonomax1" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax2" tvg-name="สำรองmonomax2" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax3" tvg-name="สำรองmonomax3" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax4" tvg-name="สำรองmonomax4" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax5" tvg-name="สำรองmonomax5" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://www.livedoomovies.com:4431/Monomax_PL_5HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://www.livedoomovies.com:4431/Monomax_PL_5HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax6" tvg-name="สำรองmonomax6" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://www.livedoomovies.com:4431/Monomax_PL_6HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://www.livedoomovies.com:4431/Monomax_PL_6HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax7" tvg-name="สำรองmonomax7" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://www.livedoomovies.com:4431/Monomax_PL_7HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://www.livedoomovies.com:4431/Monomax_PL_7HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax8" tvg-name="สำรองmonomax8" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://www.livedoomovies.com:4431/Monomax_PL_8HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://www.livedoomovies.com:4431/Monomax_PL_8HD/playlist.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax9" tvg-name="สำรองmonomax9" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://live-sport-9.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://live-sport-9.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax10" tvg-name="สำรองmonomax10" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://live-sport-10.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://live-sport-10.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax11" tvg-name="สำรองmonomax11" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://live-sport-11.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://live-sport-11.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรองmonomax12" tvg-name="สำรองmonomax12" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="สำรองmonomax",สำรองmonomax12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://live-sport-12.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://live-sport-12.monomax.me/c/index-hls.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=bbclifestyle.com&sz=256" group-title="สารคดีและอื่นๆ",BBC Lifestyle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bbc-lifestyle/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bbc-lifestyle/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Animal Show" tvg-name="Animal Show" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=animalplanet.com&sz=256" group-title="สารคดีและอื่นๆ",Animal Show
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="สำรวจโลก" tvg-name="สำรวจโลก" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=nextstep.tv&sz=256" group-title="สารคดีและอื่นๆ",สำรวจโลก
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=history.com&sz=256" group-title="สารคดีและอื่นๆ",History Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256" group-title="สารคดีและอื่นๆ",Discovery Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=nationalgeographic.com&sz=256" group-title="สารคดีและอื่นๆ",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/national-geographic/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=bbcearth.com&sz=256" group-title="สารคดีและอื่นๆ",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/bbc-earth/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/bbc-earth/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Crime + Investigation" tvg-name="Crime + Investigation" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=crimeandinvestigation.co.uk&sz=256" group-title="สารคดีและอื่นๆ",Crime + Investigation
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/crime-investigation/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=dmax.de&sz=256" group-title="สารคดีและอื่นๆ",DMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/dmax/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/dmax/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=discovery.com&sz=256" group-title="สารคดีและอื่นๆ",Discovery Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Foodiez Channel" tvg-name="Foodiez Channel" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=foodiez.com&sz=256" group-title="สารคดีและอื่นๆ",Foodiez Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/foodiez-channel/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/foodiez-channel/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=lovenature.com&sz=256" group-title="สารคดีและอื่นๆ",Love Nature 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/lovenature4k/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/lovenature4k/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="RT Documentary" tvg-name="RT Documentary" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=rtdoc.tv&sz=256" group-title="สารคดีและอื่นๆ",RT Documentary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/rt-documentary/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/rt-documentary/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Explore Sci" tvg-name="True Explore Sci" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="สารคดีและอื่นๆ",True Explore Sci
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/trueexploresci/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/trueexploresci/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="True Explore Wild" tvg-name="True Explore Wild" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="สารคดีและอื่นๆ",True Explore Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-https://dij0k9i5q0gvn.cloudfront.net/trueexplorewild/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"https://dookeela4.live/", "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+https://dij0k9i5q0gvn.cloudfront.net/trueexplorewild/chunks.m3u8|Referer=https://dookeela4.live/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
