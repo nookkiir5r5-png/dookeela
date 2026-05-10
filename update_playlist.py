@@ -1,13 +1,13 @@
 import json
 
-# ค่า User-Agent ที่คุณกำหนด
-USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+# เปลี่ยนกลับเป็น User-Agent มาตรฐาน (แบบเก่า)
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Updated Monomax Backup Links)",
+    "name": "Mega Playlist 36 (Restored Standard User-Agent)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
@@ -139,4 +139,4 @@ with open('playlist.m3u', 'w', encoding='utf-8') as f:
 with open('playlist.json', 'w', encoding='utf-8') as f:
     json.dump(playlist_data, f, ensure_ascii=False, indent=2)
 
-print("อัปเดตเพลย์ลิสต์พร้อมลิงก์สำรอง Monomax ใหม่สำเร็จ")
+print("อัปเดตเพลย์ลิสต์พร้อม User-Agent แบบเก่าสำเร็จ")
